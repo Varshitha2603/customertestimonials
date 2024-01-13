@@ -1,0 +1,33 @@
+.title_content h1
+{
+    text-align: center;
+}
+.image1
+{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px 2px;
+}
+.parent
+{
+    background-color: rgb(189, 243, 225);
+    margin: 0px auto;
+    width: 500px;
+    /* height: 600px; */
+    text-align: center;
+    padding: 55px;
+    border-radius: 10px;
+}
+.button_div
+{
+    text-align: center;
+    padding: 20px;
+}
+#btn1
+{
+    margin-right: 60px;
+}
+
+
+
